@@ -28,7 +28,8 @@ function errorCallback(error) {
             // Okänt fel, gör något
             break;
     }
-}
+ }
+ 
 ```
 
 Bilder läggs i samma mapp som markdown-filen.
