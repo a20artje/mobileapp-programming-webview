@@ -2,6 +2,7 @@
 # Rapport
 - Min github lägger fel namn på commits även om jag inte har länkat det kontot på något sätt
 - Mitt skolInlogg är a20artje
+- 
 ## Följande grundsyn gäller dugga-svar:
 
 - Jag renamade app_name till chess 2 i strings.xml
